@@ -18,7 +18,7 @@ We will be using Google Apps Script to write our integration script, well it doe
 6. Subscribe your Facebook page to your Facebook webhook
 7. Update your webhook script to receive and store your lead data in Google Sheets
 
-### Useful Tools Being Used
+### Useful Tools Being Used 
 
 - Facebook Graph API Explorer: https://developers.facebook.com/tools/explorer/
 - Facebook Lead Ads Testing Tool: https://developers.facebook.com/tools/lead-ads-testing
